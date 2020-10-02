@@ -1,0 +1,120 @@
+{
+    "items": [
+        {
+            "active": 1,
+            "id": "199c54e2fc309ac3dd36d2f113252f19",
+            "link": "<a href=\"https://nadkins.mivamerchantdev.com/our-catalog.html\" target=\"_self\">Shop All</a>",
+            "link_dest": "CTLG",
+            "link_targ": "_self",
+            "link_type": "G",
+            "name": "Shop All",
+            "url": "https://nadkins.mivamerchantdev.com/our-catalog.html"
+        },
+        {
+            "active": 1,
+            "id": "6a2789445c30e59418c728e9a21fecfd",
+            "items": [
+                {
+                    "active": 1,
+                    "id": "215b0f61754fd65abc8d405b33f77085",
+                    "link": "<a href=\"https://nadkins.mivamerchantdev.com/sub-category-1.html\" target=\"_self\">Subcategory 1</a>",
+                    "link_dest": "sub-cat-1",
+                    "link_targ": "_self",
+                    "link_type": "C",
+                    "name": "Subcategory 1",
+                    "url": "https://nadkins.mivamerchantdev.com/sub-category-1.html"
+                },
+                {
+                    "active": 1,
+                    "id": "549ed5505bef8fcdc49ad5017f9a386d",
+                    "link": "<a href=\"https://nadkins.mivamerchantdev.com/sub-category-2.html\" target=\"_self\">Subcategory 2</a>",
+                    "link_dest": "sub-cat-2",
+                    "link_targ": "_self",
+                    "link_type": "C",
+                    "name": "Subcategory 2",
+                    "url": "https://nadkins.mivamerchantdev.com/sub-category-2.html"
+                }
+            ],
+            "link": "<a href=\"https://nadkins.mivamerchantdev.com/category-1.html\" target=\"_self\">Category 1</a>",
+            "link_dest": "category_01",
+            "link_targ": "_self",
+            "link_type": "C",
+            "name": "Category 1",
+            "url": "https://nadkins.mivamerchantdev.com/category-1.html"
+        },
+        {
+            "active": 1,
+            "id": "8d43a97a138c802440e93d298e7bd39a",
+            "items": [
+                {
+                    "active": 1,
+                    "id": "d9fb9caa58f2b1b373c921c720e78b7e",
+                    "link": "<a href=\"https://nadkins.mivamerchantdev.com/sub-category-3.html\" target=\"_self\">Subcategory 3</a>",
+                    "link_dest": "sub-cat-3",
+                    "link_targ": "_self",
+                    "link_type": "C",
+                    "name": "Subcategory 3",
+                    "url": "https://nadkins.mivamerchantdev.com/sub-category-3.html"
+                },
+                {
+                    "active": 1,
+                    "id": "66aa4b2b8be9eb63d8229cb6954e65e7",
+                    "link": "<a href=\"https://nadkins.mivamerchantdev.com/sub-category-4.html\" target=\"_self\">Subcategory 4</a>",
+                    "link_dest": "Sub-cat-4",
+                    "link_targ": "_self",
+                    "link_type": "C",
+                    "name": "Subcategory 4",
+                    "url": "https://nadkins.mivamerchantdev.com/sub-category-4.html"
+                }
+            ],
+            "link": "<a href=\"https://nadkins.mivamerchantdev.com/category-2.html\" target=\"_self\">Category 2</a>",
+            "link_dest": "category_02",
+            "link_targ": "_self",
+            "link_type": "C",
+            "name": "Category 2",
+            "url": "https://nadkins.mivamerchantdev.com/category-2.html"
+        },
+        {
+            "active": 1,
+            "id": "af15a685d267fc5d6978825e85bbe5cb",
+            "link": "<a href=\"https://nadkins.mivamerchantdev.com/category-3.html\" target=\"_self\">Category 3</a>",
+            "link_dest": "category_03",
+            "link_targ": "_self",
+            "link_type": "C",
+            "name": "Category 3",
+            "url": "https://nadkins.mivamerchantdev.com/category-3.html"
+        },
+        {
+            "active": 1,
+            "id": "8d11475d3217bc50ac8f56fbb5ffba3f",
+            "link": "<a href=\"https://nadkins.mivamerchantdev.com/category-4.html\" target=\"_self\">Category 4</a>",
+            "link_dest": "category_04",
+            "link_targ": "_self",
+            "link_type": "C",
+            "name": "Category 4",
+            "url": "https://nadkins.mivamerchantdev.com/category-4.html"
+        },
+        {
+            "active": 1,
+            "id": "81fa419c6febfbabf709dc40ac7a9f5d",
+            "link": "<a href=\"https://nadkins.mivamerchantdev.com/sale.html\" target=\"_self\">Sale</a>",
+            "link_dest": "sale",
+            "link_targ": "_self",
+            "link_type": "C",
+            "name": "Sale",
+            "url": "https://nadkins.mivamerchantdev.com/sale.html"
+        },
+        {
+            "active": 1,
+            "id": "1277bcd19503031336dc3dcdb198fdde",
+            "link": "<a href=\"https://nadkins.mivamerchantdev.com/featured-products.html\" target=\"_self\">Featured Products</a>",
+            "link_dest": "featured",
+            "link_targ": "_self",
+            "link_type": "C",
+            "name": "Featured Products",
+            "url": "https://nadkins.mivamerchantdev.com/featured-products.html"
+        }
+    ],
+    "layout": "H",
+    "name": "Primary Site Navigation Bar"
+}

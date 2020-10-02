@@ -1,0 +1,66 @@
+{
+    "items": [
+        {
+            "active": 1,
+            "id": "7e5aaca85ea523f4ba3e0c1a3b4ea9ca",
+            "link": "<a href=\"https://nadkins.mivamerchantdev.com/about-us.html\" target=\"_self\">About Us</a>",
+            "link_dest": "ABUS",
+            "link_targ": "_self",
+            "link_type": "G",
+            "name": "About Us",
+            "url": "https://nadkins.mivamerchantdev.com/about-us.html"
+        },
+        {
+            "active": 1,
+            "id": "27ca40c1b61633f55df836ecea04053f",
+            "link": "<a href=\"https://nadkins.mivamerchantdev.com/contact-us.html\" target=\"_self\">Contact Us</a>",
+            "link_dest": "CTUS",
+            "link_targ": "_self",
+            "link_type": "G",
+            "name": "Contact Us",
+            "url": "https://nadkins.mivamerchantdev.com/contact-us.html"
+        },
+        {
+            "active": 1,
+            "id": "9526230a398b916284849323e0833bea",
+            "link": "<a href=\"https://nadkins.mivamerchantdev.com/frequently-asked-questions.html\" target=\"_self\">FAQS</a>",
+            "link_dest": "FAQS",
+            "link_targ": "_self",
+            "link_type": "G",
+            "name": "FAQS",
+            "url": "https://nadkins.mivamerchantdev.com/frequently-asked-questions.html"
+        },
+        {
+            "active": 1,
+            "id": "ee0098836b537ad6df1d2a46ba42e34b",
+            "link": "<a href=\"https://nadkins.mivamerchantdev.com/order-history-list.html\" target=\"_self\">Order Status</a>",
+            "link_dest": "ORDH",
+            "link_targ": "_self",
+            "link_type": "G",
+            "name": "Order Status",
+            "url": "https://nadkins.mivamerchantdev.com/order-history-list.html"
+        },
+        {
+            "active": 1,
+            "id": "31c1b729b5bee653ec0ef06705671ca5",
+            "link": "<a href=\"https://nadkins.mivamerchantdev.com/wish-lists.html\" target=\"_self\">Wish Lists</a>",
+            "link_dest": "WLST",
+            "link_targ": "_self",
+            "link_type": "G",
+            "name": "Wish Lists",
+            "url": "https://nadkins.mivamerchantdev.com/wish-lists.html"
+        },
+        {
+            "active": 1,
+            "id": "c365c960a6e2c5bab34de954275bf40c",
+            "link": "<a href=\"https://nadkins.mivamerchantdev.com/site-map.html\" target=\"_self\">Site Map</a>",
+            "link_dest": "SMAP",
+            "link_targ": "_self",
+            "link_type": "G",
+            "name": "Site Map",
+            "url": "https://nadkins.mivamerchantdev.com/site-map.html"
+        }
+    ],
+    "layout": "S",
+    "name": "Global Footer Quick Links"
+}

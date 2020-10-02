@@ -1,0 +1,36 @@
+{
+    "items": [
+        {
+            "active": 1,
+            "id": "c9f9003d91a35b3bb544ccb686fe1515",
+            "link": "<a href=\"https://nadkins.mivamerchantdev.com/about-us.html\" target=\"_self\">About Us</a>",
+            "link_dest": "ABUS",
+            "link_targ": "_self",
+            "link_type": "G",
+            "name": "About Us",
+            "url": "https://nadkins.mivamerchantdev.com/about-us.html"
+        },
+        {
+            "active": 1,
+            "id": "67e37934844c29ce79778c245314d63f",
+            "link": "<a href=\"https://nadkins.mivamerchantdev.com/contact-us.html\" target=\"_self\">Contact Us</a>",
+            "link_dest": "CTUS",
+            "link_targ": "_self",
+            "link_type": "G",
+            "name": "Contact Us",
+            "url": "https://nadkins.mivamerchantdev.com/contact-us.html"
+        },
+        {
+            "active": 1,
+            "id": "f17064582dcf0c88497bfc4ba380562a",
+            "link": "<a href=\"https://nadkins.mivamerchantdev.com/frequently-asked-questions.html\" target=\"_self\">Frequent Questions</a>",
+            "link_dest": "FAQS",
+            "link_targ": "_self",
+            "link_type": "G",
+            "name": "Frequent Questions",
+            "url": "https://nadkins.mivamerchantdev.com/frequently-asked-questions.html"
+        }
+    ],
+    "layout": "S",
+    "name": "Support Pages Navigation"
+}

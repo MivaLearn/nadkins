@@ -1,0 +1,187 @@
+{
+    "descrip": "This is the side navigation for all account pages.",
+    "items": [
+        {
+            "active": 1,
+            "id": "b56cd0185db7aff921533091228606d6",
+            "items": [
+                {
+                    "active": 1,
+                    "id": "cc1bd6ba5820ad2e4cac87c5bee945b0",
+                    "link": "<a href=\"https://nadkins.mivamerchantdev.com/customer-edit.html\" target=\"_self\">Edit Information</a>",
+                    "link_dest": "ACED",
+                    "link_targ": "_self",
+                    "link_type": "G",
+                    "name": "Edit Information",
+                    "url": "https://nadkins.mivamerchantdev.com/customer-edit.html"
+                },
+                {
+                    "active": 1,
+                    "id": "001548a687c6fde765af46d331d4b56f",
+                    "link": "<a href=\"https://nadkins.mivamerchantdev.com/change-email-address.html\" target=\"_self\">Change Email</a>",
+                    "link_dest": "CEML",
+                    "link_targ": "_self",
+                    "link_type": "G",
+                    "name": "Change Email",
+                    "url": "https://nadkins.mivamerchantdev.com/change-email-address.html"
+                },
+                {
+                    "active": 1,
+                    "id": "453350fd054c7a3794591af198470769",
+                    "link": "<a href=\"https://nadkins.mivamerchantdev.com/change-password.html\" target=\"_self\">Change Password</a>",
+                    "link_dest": "CPWD",
+                    "link_targ": "_self",
+                    "link_type": "G",
+                    "name": "Change Password",
+                    "url": "https://nadkins.mivamerchantdev.com/change-password.html"
+                }
+            ],
+            "link": "Personal Information",
+            "link_targ": "_self",
+            "link_type": "N",
+            "name": "Personal Information"
+        },
+        {
+            "active": 1,
+            "id": "20b279bd05177d804d3f804a0d403393",
+            "items": [
+                {
+                    "active": 1,
+                    "id": "883bc2bdd4034efac64f7958bd4deaf7",
+                    "link": "<a href=\"https://nadkins.mivamerchantdev.com/customer-payment-cards.html\" target=\"_self\">Edit Cards</a>",
+                    "link_dest": "CPCD",
+                    "link_targ": "_self",
+                    "link_type": "G",
+                    "name": "Edit Cards",
+                    "url": "https://nadkins.mivamerchantdev.com/customer-payment-cards.html"
+                },
+                {
+                    "active": 1,
+                    "id": "3d30f7eb67b997b2a98ef1a1335c37ff",
+                    "link": "<a href=\"https://nadkins.mivamerchantdev.com/customer-payment-card-add.html\" target=\"_self\">Add New Card</a>",
+                    "link_dest": "CPCA",
+                    "link_targ": "_self",
+                    "link_type": "G",
+                    "name": "Add New Card",
+                    "url": "https://nadkins.mivamerchantdev.com/customer-payment-card-add.html"
+                }
+            ],
+            "link": "Payments Options",
+            "link_targ": "_self",
+            "link_type": "N",
+            "name": "Payments Options"
+        },
+        {
+            "active": 1,
+            "id": "c4e576542b971589a153666fc8b8bade",
+            "items": [
+                {
+                    "active": 1,
+                    "id": "7343d922191c5cc62ea27bec5d54c6ef",
+                    "link": "<a href=\"https://nadkins.mivamerchantdev.com/order-history-list.html\" target=\"_self\">Order History</a>",
+                    "link_dest": "ORDH",
+                    "link_targ": "_self",
+                    "link_type": "G",
+                    "name": "Order History",
+                    "url": "https://nadkins.mivamerchantdev.com/order-history-list.html"
+                },
+                {
+                    "active": 1,
+                    "id": "bdfb361949a95dedc9ea7bac2c91ca0f",
+                    "link": "<a href=\"https://nadkins.mivamerchantdev.com/customer-subscriptions.html\" target=\"_self\">Manage Subscriptions</a>",
+                    "link_dest": "CSUB",
+                    "link_targ": "_self",
+                    "link_type": "G",
+                    "name": "Manage Subscriptions",
+                    "url": "https://nadkins.mivamerchantdev.com/customer-subscriptions.html"
+                }
+            ],
+            "link": "My Orders",
+            "link_targ": "_self",
+            "link_type": "N",
+            "name": "My Orders"
+        },
+        {
+            "active": 1,
+            "id": "11fb6ad6e8cfbaadf537891f6dc94656",
+            "items": [
+                {
+                    "active": 1,
+                    "id": "b3b8c007f53b53f4774744ad9c506634",
+                    "link": "<a href=\"https://nadkins.mivamerchantdev.com/customer-account-balance.html\" target=\"_self\">Check Your Balance</a>",
+                    "link_dest": "ABAL",
+                    "link_targ": "_self",
+                    "link_type": "G",
+                    "name": "Check Your Balance",
+                    "url": "https://nadkins.mivamerchantdev.com/customer-account-balance.html"
+                },
+                {
+                    "active": 1,
+                    "id": "1730e69b84019c222ab8d2cfcd906b08",
+                    "link": "<a href=\"https://nadkins.mivamerchantdev.com/redeem-gift-certificate.html\" target=\"_self\">Redeem Gift Certificate</a>",
+                    "link_dest": "RGFT",
+                    "link_targ": "_self",
+                    "link_type": "G",
+                    "name": "Redeem Gift Certificate",
+                    "url": "https://nadkins.mivamerchantdev.com/redeem-gift-certificate.html"
+                }
+            ],
+            "link": "Customer Credit",
+            "link_targ": "_self",
+            "link_type": "N",
+            "name": "Customer Credit"
+        },
+        {
+            "active": 1,
+            "id": "735c8cc67f610df45a5d5ba44d2356fa",
+            "items": [
+                {
+                    "active": 1,
+                    "id": "c7c46499bd4efeef26a2a6527bdc8711",
+                    "link": "<a href=\"https://nadkins.mivamerchantdev.com/customer-address-book.html\" target=\"_self\">Edit Addresses</a>",
+                    "link_dest": "CABK",
+                    "link_targ": "_self",
+                    "link_type": "G",
+                    "name": "Edit Addresses",
+                    "url": "https://nadkins.mivamerchantdev.com/customer-address-book.html"
+                },
+                {
+                    "active": 1,
+                    "id": "2b6f0f2235c1ad4fe90042801c67353a",
+                    "link": "<a href=\"https://nadkins.mivamerchantdev.com/customer-address-add.html\" target=\"_self\">Add New Address</a>",
+                    "link_dest": "CADA",
+                    "link_targ": "_self",
+                    "link_type": "G",
+                    "name": "Add New Address",
+                    "url": "https://nadkins.mivamerchantdev.com/customer-address-add.html"
+                }
+            ],
+            "link": "Address Book",
+            "link_targ": "_self",
+            "link_type": "N",
+            "name": "Address Book"
+        },
+        {
+            "active": 1,
+            "id": "9ab6c30ab6797df28cc7b8e050a9117a",
+            "link": "<a href=\"https://nadkins.mivamerchantdev.com/wish-lists.html\" target=\"_self\">Wish Lists</a>",
+            "link_dest": "WLST",
+            "link_targ": "_self",
+            "link_type": "G",
+            "name": "Wish Lists",
+            "url": "https://nadkins.mivamerchantdev.com/wish-lists.html"
+        },
+        {
+            "active": 0,
+            "id": "d3d64af75e7b13ebf3a2364d0ed5fd52",
+            "link": "<a href=\"https://nadkins.mivamerchantdev.com/affiliate-edit.html\" target=\"_self\">Affiliate Information</a>",
+            "link_dest": "AFED",
+            "link_targ": "_self",
+            "link_type": "G",
+            "name": "Affiliate Information",
+            "url": "https://nadkins.mivamerchantdev.com/affiliate-edit.html"
+        }
+    ],
+    "layout": "S",
+    "name": "Account Page Navigation"
+}

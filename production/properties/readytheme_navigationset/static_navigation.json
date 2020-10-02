@@ -1,0 +1,57 @@
+{
+    "descrip": "This is the side navigation for all static content pages.",
+    "items": [
+        {
+            "active": 1,
+            "id": "12fbdd307ae101e8217ab2ca2a387cf7",
+            "link": "<a href=\"https://nadkins.mivamerchantdev.com/about-us.html\" target=\"_self\">About Us</a>",
+            "link_dest": "ABUS",
+            "link_targ": "_self",
+            "link_type": "G",
+            "name": "About Us",
+            "url": "https://nadkins.mivamerchantdev.com/about-us.html"
+        },
+        {
+            "active": 1,
+            "id": "ba6fd0ed893dbdd07a275a140fb689ab",
+            "link": "<a href=\"https://nadkins.mivamerchantdev.com/contact-us.html\" target=\"_self\">Contact Us</a>",
+            "link_dest": "CTUS",
+            "link_targ": "_self",
+            "link_type": "G",
+            "name": "Contact Us",
+            "url": "https://nadkins.mivamerchantdev.com/contact-us.html"
+        },
+        {
+            "active": 1,
+            "id": "a29659660c18fa520c75cb1858bc6bce",
+            "link": "<a href=\"https://nadkins.mivamerchantdev.com/frequently-asked-questions.html\" target=\"_self\">Frequently Asked Questions</a>",
+            "link_dest": "FAQS",
+            "link_targ": "_self",
+            "link_type": "G",
+            "name": "Frequently Asked Questions",
+            "url": "https://nadkins.mivamerchantdev.com/frequently-asked-questions.html"
+        },
+        {
+            "active": 1,
+            "id": "4e9236646a0afb29acfea41e2d63ac1a",
+            "link": "<a href=\"https://nadkins.mivamerchantdev.com/privacy-policy.html\" target=\"_self\">Privacy Policy</a>",
+            "link_dest": "PRPO",
+            "link_targ": "_self",
+            "link_type": "G",
+            "name": "Privacy Policy",
+            "url": "https://nadkins.mivamerchantdev.com/privacy-policy.html"
+        },
+        {
+            "active": 1,
+            "id": "63cbc54d695910e28833eaae89051734",
+            "link": "<a href=\"https://nadkins.mivamerchantdev.com/shipping-and-return-policy.html\" target=\"_self\">Shipping &amp; Return Policy</a>",
+            "link_dest": "SARP",
+            "link_targ": "_self",
+            "link_type": "G",
+            "name": "Shipping & Return Policy",
+            "url": "https://nadkins.mivamerchantdev.com/shipping-and-return-policy.html"
+        }
+    ],
+    "layout": "S",
+    "name": "Static Page Navigation"
+}

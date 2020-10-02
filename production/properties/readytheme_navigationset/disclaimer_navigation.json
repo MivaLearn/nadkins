@@ -1,0 +1,26 @@
+{
+    "items": [
+        {
+            "active": 1,
+            "id": "23a126de37dd0415459ce480c55019b1",
+            "link": "<a href=\"https://nadkins.mivamerchantdev.com/privacy-policy.html\" target=\"_self\">Privacy Statement</a>",
+            "link_dest": "PRPO",
+            "link_targ": "_self",
+            "link_type": "G",
+            "name": "Privacy Statement",
+            "url": "https://nadkins.mivamerchantdev.com/privacy-policy.html"
+        },
+        {
+            "active": 1,
+            "id": "3a1cfb41de73b83615164cbcf27932a7",
+            "link": "<a href=\"https://nadkins.mivamerchantdev.com/shipping-and-return-policy.html\" target=\"_self\">Shipping and Return Policies</a>",
+            "link_dest": "SARP",
+            "link_targ": "_self",
+            "link_type": "G",
+            "name": "Shipping and Return Policies",
+            "url": "https://nadkins.mivamerchantdev.com/shipping-and-return-policy.html"
+        }
+    ],
+    "layout": "S",
+    "name": "Global Footer Disclaimer Navigation"
+}
